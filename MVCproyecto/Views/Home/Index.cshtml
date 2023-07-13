@@ -1,0 +1,300 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="text-center">
+    <strong>
+    <h1 class="display-4">Bienvenido a nuestra Petshop</h1>
+
+    </strong>
+    <style>
+
+        p{
+            color:black;
+        }
+        video{
+            z-index:0;
+            width: 100%;
+        }
+        .slider{
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+
+        }
+
+        .slider ul{
+			display: flex;
+			animation: cambio 20s infinite alternate linear;
+            width: 400%;
+        }
+
+        .slider li{
+            width: 100%;
+            list-style: none;
+        }
+
+        .slider img{
+			width: 100%;
+			height: 100%;
+		}
+
+        .carousel-caption{
+            z-index: 99999;
+        }
+      
+      .cardProduct {
+    display: flex;
+}
+
+.contenerColumn {
+    flex: 1;
+}
+.cardProduct {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        grid-gap: 20px;
+
+}
+        .contenerColumn {
+            display: flex;
+            flex-direction:column;
+
+        }
+        .contenerColumn {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+
+.contenerColumn:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s;
+}
+
+        .imgLanding img{
+            height: 250px;
+        }
+
+        
+    </style>
+    <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                <video autoplay muted loop src="/video.mp4">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Etiqueta de la primera diapositiva</h5>
+                    <p>Algún contenido placeholder representativo para la primera diapositiva.</p>
+                </div>
+                </div>
+                <div class="carousel-item">
+                
+                <video autoplay muted loop src="/video2.mp4">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Etiqueta de la segunda diapositiva</h5>
+                    <p>Algún contenido placeholder representativo para la segunda diapositiva.</p>
+                </div>
+                </div>
+                <div class="carousel-item">
+                
+                <video autoplay muted loop src="/video3.mp4">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Etiqueta de la tercera diapositiva</h5>
+                    <p>Algún contenido placeholder representativo para la tercera diapositiva.</p>
+                </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Anterior</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Siguiente</span>
+            </button>
+    </div>
+   <br />
+   <br />
+    <br />
+
+   <div>
+        <div class="cardProduct">
+                <div class="contenerColumna">
+                 <div class="imgLanding">
+                
+                
+                    <img src="/imagen2.png" alt="">
+                </div>
+                    <p>
+                    Bienvenido a nuestra tienda de mascotas, donde ofrecemos una amplia variedad de productos y servicios para tus amigos peludos, emplumados o escamados. Nuestra tienda está ubicada en el corazón de Ecuador y estamos dedicados a brindar el mejor cuidado para tus mascotas.
+                    </p>
+                </div>
+                <div class="contenerColumna">
+                <div class="imgLanding">
+
+
+                    <img src="/imagen3.png" alt="">
+                </div>
+                    <p>
+                    Entendemos que tus mascotas son más que solo animales, son miembros de tu familia. Es por eso que ofrecemos solo productos de la más alta calidad, desde alimentos y golosinas nutritivos hasta camas cómodas y juguetes. Nuestro personal experto siempre está disponible para ayudarte a encontrar el artículo perfecto para tu mascota.
+            
+                </p>
+                </div>
+               
+        </div>
+   </div>
+
+    <br />
+    <br />
+    <br />
+
+
+    <div>
+
+        <h1>
+            Productos
+        </h1>
+        <div class="cardProduct">
+            <div class="contenerColumn">
+                <div>
+                
+                
+                    <img src="https://petshopdavi.com/wp-content/uploads/2023/04/descarga-1.jpg" alt=""></li>
+                </div>
+                <div>
+                    <p>
+                        Nutrivet Gato Kitten 3.5 KG
+                    </p>
+                </div>
+                <div>
+                    <p>
+                        Precio: $15.9
+                    </p>
+                </div>
+            </div>
+              <div class="contenerColumn">
+                <div>
+                    <img src="https://petshopdavi.com/wp-content/uploads/2023/04/descarga.jpg" alt=""></li>
+                </div>
+                <div>
+                    <p>
+                        wellness snack hip y joint vitamina 180 gr
+                    </p>
+                </div>
+                <div>
+                    <p>
+                        Precio: $12.9
+                    </p>
+                </div>
+             </div>
+            <div class="contenerColumn">
+         
+                <div >
+
+
+                    <img src="https://petshopdavi.com/wp-content/uploads/2023/04/WELLNESS-VITAMINA-RELAX-CALMING-60TAB-300x300.jpg" alt=""></li>
+                </div>
+                <div>
+                    <p>
+                            WELLNES SNACK RELAX 180 gr
+                    </p>
+                </div>
+                <div>
+                    <p>
+                        Precio: $18.75
+                    </p>
+                </div>
+            </div>
+             <div class="contenerColumn">
+                <div >
+
+
+                        <img src="https://petshopdavi.com/wp-content/uploads/2023/04/a050a172-cb43-4c4a-8f5a-e1aa5a819d94-1-300x300.jpg" alt=""></li>
+                </div>
+                <div>
+                    <p>
+                            Arena Nutrapro Active Carbon
+                    </p>
+                </div>
+                <div>
+                    <p>
+                        Precio: $9.15
+                    </p>
+                </div>
+            </div>
+             <div class="contenerColumn">
+                <div >
+                    <img src="https://petshopdavi.com/wp-content/uploads/2022/09/Premium-Mster-1920w-300x300.jpg" alt=""></li>
+                </div>
+                <div>
+                    <p>
+                            Arena Nutrapro Active Carbon
+                    </p>
+                </div>
+                <div>
+                    <p>
+                        Precio: $9.15
+                    </p>
+                </div>
+            </div>
+             <div class="contenerColumn">
+                <div >
+                    <img src="https://petshopdavi.com/wp-content/uploads/2022/09/Premium-M-Junior-1920w-300x300.jpg" alt=""></li>
+                </div>
+                <div>
+                    <p>
+                            Arena Nutrapro Active Carbon
+                    </p>
+                </div>
+                <div>
+                    <p>
+                        Precio: $9.15
+                    </p>
+                </div>
+            </div>
+             <div class="contenerColumn">
+                <div >
+                    <img src="https://petshopdavi.com/wp-content/uploads/2023/04/arena-bolsa-300x300.png" alt=""></li>
+                </div>
+                <div>
+                    <p>
+                            Arena Nutrapro Active Carbon
+                    </p>
+                </div>
+                <div>
+                    <p>
+                        Precio: $9.15
+                    </p>
+                </div>
+            </div>
+            <div class="contenerColumn">
+                <div >
+                    <img src="https://petshopdavi.com/wp-content/uploads/2023/04/nutrapro-arena-manzana-verde-para-gatos-300x300.png" alt=""></li>
+                </div>
+                <div>
+                    <p>
+                            Arena Nutrapro Active Carbon
+                    </p>
+                </div>
+                <div>
+                    <p>
+                        Precio: $9.15
+                    </p>
+                </div>
+            </div>
+           
+           
+
+
+
+
+
+            
+          
+          
+        </div>
+    </div>
+</div>

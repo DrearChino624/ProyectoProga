@@ -1,0 +1,1235 @@
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\appsettings.json
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\MVCproyecto.staticwebassets.runtime.json
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\MVCproyecto.exe
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\MVCproyecto.deps.json
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\MVCproyecto.runtimeconfig.json
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\MVCproyecto.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\MVCproyecto.pdb
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\MVCproyecto.csproj.AssemblyReference.cache
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\MVCproyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\MVCproyecto.AssemblyInfoInputs.cache
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\MVCproyecto.AssemblyInfo.cs
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\MVCproyecto.csproj.CoreCompileInputs.cache
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\MVCproyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\MVCproyecto.RazorAssemblyInfo.cache
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\MVCproyecto.RazorAssemblyInfo.cs
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.MVCproyecto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.build.MVCproyecto.props
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVCproyecto.props
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVCproyecto.props
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\scopedcss\bundle\MVCproyecto.styles.css
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\scopedcss\projectbundle\MVCproyecto.bundle.scp.css
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\MVCproyecto.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\refint\MVCproyecto.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\MVCproyecto.pdb
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\MVCproyecto.genruntimeconfig.cache
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\ref\MVCproyecto.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Humanizer.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\MessagePack.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\jativ\source\repos\MVCproyecto\MVCproyecto\obj\Debug\net6.0\MVCproyecto.csproj.CopyComplete
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\MVCproyecto.csproj.AssemblyReference.cache
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\MVCproyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\MVCproyecto.AssemblyInfoInputs.cache
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\MVCproyecto.AssemblyInfo.cs
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\MVCproyecto.csproj.CoreCompileInputs.cache
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\MVCproyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\MVCproyecto.RazorAssemblyInfo.cache
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\MVCproyecto.RazorAssemblyInfo.cs
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\MVCproyecto.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\refint\MVCproyecto.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\MVCproyecto.pdb
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\appsettings.json
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\MVCproyecto.staticwebassets.runtime.json
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\MVCproyecto.exe
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\MVCproyecto.deps.json
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\MVCproyecto.runtimeconfig.json
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\MVCproyecto.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\MVCproyecto.pdb
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.MVCproyecto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.build.MVCproyecto.props
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVCproyecto.props
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVCproyecto.props
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\scopedcss\bundle\MVCproyecto.styles.css
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\scopedcss\projectbundle\MVCproyecto.bundle.scp.css
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\MVCproyecto.csproj.CopyComplete
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\MVCproyecto.genruntimeconfig.cache
+C:\Users\Jossue Jativa\Source\Repos\Proyecto-1er-progreso-MVC\MVCproyecto\obj\Debug\net6.0\ref\MVCproyecto.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\appsettings.json
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MVCproyecto.staticwebassets.runtime.json
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MVCproyecto.exe
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MVCproyecto.deps.json
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MVCproyecto.runtimeconfig.json
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MVCproyecto.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MVCproyecto.pdb
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Humanizer.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MessagePack.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MessagePack.Annotations.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.Build.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.Common.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.Configuration.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.Frameworks.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.LibraryModel.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.Packaging.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.ProjectModel.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.Protocol.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.Versioning.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Composition.Convention.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Composition.Hosting.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Composition.Runtime.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Composition.TypedParts.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Drawing.Common.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Security.Permissions.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Windows.Extensions.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.csproj.AssemblyReference.cache
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.AssemblyInfoInputs.cache
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.AssemblyInfo.cs
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.csproj.CoreCompileInputs.cache
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.RazorAssemblyInfo.cache
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.RazorAssemblyInfo.cs
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.MVCproyecto.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.build.MVCproyecto.props
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVCproyecto.props
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVCproyecto.props
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets.pack.json
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets.development.json
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\scopedcss\bundle\MVCproyecto.styles.css
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\scopedcss\projectbundle\MVCproyecto.bundle.scp.css
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.csproj.CopyComplete
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\refint\MVCproyecto.dll
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.pdb
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.genruntimeconfig.cache
+c:\Users\Jossue Jativa\OneDrive\Escritorio\UDLA\Programacion 4\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\ref\MVCproyecto.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\appsettings.json
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MVCproyecto.staticwebassets.runtime.json
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MVCproyecto.exe
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MVCproyecto.deps.json
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MVCproyecto.runtimeconfig.json
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MVCproyecto.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MVCproyecto.pdb
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.csproj.AssemblyReference.cache
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.AssemblyInfoInputs.cache
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.AssemblyInfo.cs
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.csproj.CoreCompileInputs.cache
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.RazorAssemblyInfo.cache
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.RazorAssemblyInfo.cs
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.MVCproyecto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.build.MVCproyecto.props
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVCproyecto.props
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVCproyecto.props
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\scopedcss\bundle\MVCproyecto.styles.css
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\scopedcss\projectbundle\MVCproyecto.bundle.scp.css
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.csproj.CopyComplete
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\refint\MVCproyecto.dll
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.pdb
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.genruntimeconfig.cache
+C:\Users\Jossue Jativa\source\repos\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\ref\MVCproyecto.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\appsettings.json
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MVCproyecto.staticwebassets.runtime.json
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MVCproyecto.exe
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MVCproyecto.deps.json
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MVCproyecto.runtimeconfig.json
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MVCproyecto.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MVCproyecto.pdb
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MessagePack.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.csproj.AssemblyReference.cache
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.AssemblyInfoInputs.cache
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.AssemblyInfo.cs
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.RazorAssemblyInfo.cache
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.RazorAssemblyInfo.cs
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.MVCproyecto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.build.MVCproyecto.props
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVCproyecto.props
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVCproyecto.props
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\scopedcss\bundle\MVCproyecto.styles.css
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\scopedcss\projectbundle\MVCproyecto.bundle.scp.css
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.csproj.CopyComplete
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\refint\MVCproyecto.dll
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.pdb
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\MVCproyecto.genruntimeconfig.cache
+C:\Users\mateo\OneDrive\Desktop\Proyecto de programacion\WEB\WebAPIPetshop\MVCproyecto\obj\Debug\net6.0\ref\MVCproyecto.dll
